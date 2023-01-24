@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\bin\Debug\ConsoleAppRomanToArabian.exe.config
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\bin\Debug\ConsoleAppRomanToArabian.exe
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\bin\Debug\ConsoleAppRomanToArabian.pdb
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\obj\Debug\ConsoleAppRomanToArabian.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\obj\Debug\ConsoleAppRomanToArabian.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\obj\Debug\ConsoleAppRomanToArabian.exe
+C:\Users\Q\source\repos\ConsoleAppRomanToArabian\ConsoleAppRomanToArabian\obj\Debug\ConsoleAppRomanToArabian.pdb
